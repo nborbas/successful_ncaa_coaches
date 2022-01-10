@@ -41,7 +41,7 @@ So here is the "process" I took:
 **Win Percentage Median** - First I intended to do more than 2 categories, that is why I used the PERCENTILE() function and ELSEIF branches instead of the MEDIAN() and a simple ELSE branch, but I ended up using only 2. However, I never used the PERCENTILE() function before, thus didn't change it to MEDIAN() for the sake of practice.
 ```
 IF [Win Percentage] >= {PERCENTILE([Win Percentage], 0.50)}
-THEN "Over Median"
+THEN "Over Median" // Precisely: Median or Over Median
 ELSEIF [Win Percentage] >= {PERCENTILE([Win Percentage], 0)}
 THEN "Under Median"
 END
