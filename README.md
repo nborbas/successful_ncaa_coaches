@@ -29,7 +29,7 @@ So here is the "process" I took:
 - Additional context is added via annotated areas. First, I liked the thought that there are coaches who are relatively new, but already holding an over-the-median win percentage. Second, the Losses scatterplot made obvious that the Wins outnumber the Losses, thus in the data we are really looking at only the most successful coaches (plus I saw Andy Cotgreave's video about this note on LinkedIn).
 ![image](https://user-images.githubusercontent.com/96722899/148793604-08814e7d-e2bc-4a5a-b38c-34687a903c7a.png)
 
-As per the visual elements such as background, title, text annotations etc., I used [Figma](https://www.figma.com/).
+**Note:** As for the visual elements such as background, title, text annotations etc., I used [Figma](https://www.figma.com/).
 
 ## Tableau Calculations
 
