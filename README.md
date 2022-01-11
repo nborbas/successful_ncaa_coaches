@@ -22,7 +22,7 @@ So here is the "process" I took:
 ![image](https://user-images.githubusercontent.com/96722899/148792025-7b8f1a2a-a9c5-49ba-a3d9-883996207c7f.png)
 - The "BAN" area in the upper right corner of the dashboard is enabled by filter action. Clicking on a data point draws out the statistics for the selected coach (same function is available in the tooltips). While the "Median Win Percentage" is unchanged and acts as a comparison point.  
 ![image](https://user-images.githubusercontent.com/96722899/148793745-a7c52753-c532-4de6-b916-a5ca89ac0b09.png)
-- The Legend functions as a data point highlighter as well (using a highlight action) - idea by Autumn Battani's [entry](https://public.tableau.com/app/profile/autumnbattani/viz/Back2VizBasicsScatterplot/D1Coaches):
+- The Legend functions as a data point highlighter as well (using a highlight action) - idea by Autumn Battani's [entry](https://public.tableau.com/app/profile/autumnbattani/viz/Back2VizBasicsScatterplot/D1Coaches):  
 ![image](https://user-images.githubusercontent.com/96722899/148793675-3e5c1810-fe29-4490-b93a-18da41a54a3d.png)
 - As for the introduction text, I went with a description of what we are looking at. The project's aim is to make the understanding as simple as possible, so this text confirms what we see visually:
 ![image](https://user-images.githubusercontent.com/96722899/148792753-68e7a728-5a26-4d73-9f1c-c58eff50aac2.png)
